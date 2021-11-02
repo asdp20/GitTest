@@ -1,6 +1,6 @@
 # GitTest
 
-html>
+<html>
 
 <body>
 
@@ -13,8 +13,12 @@ html>
     </module-one>
 
     <module-two>
-        <div>my awesome new module about news</div>
-    </module-two>
+      <ul>
+            <li>item 3</li>
+            <li>item 4</li>
+      </ul>
+   </module-two>
+
 </body>
 
 </html>
